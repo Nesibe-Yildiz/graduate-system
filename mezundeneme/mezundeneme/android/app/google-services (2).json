@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1044638459720",
+    "firebase_url": "https://mezundatabase-default-rtdb.firebaseio.com",
+    "project_id": "mezundatabase",
+    "storage_bucket": "mezundatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044638459720:android:790584ac958b87e49ab57d",
+        "android_client_info": {
+          "package_name": "com.trakya.mezunlarsistemi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044638459720-rpuk6v9rlhaj2cetuf9qotftkigmn04e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlOB3-dvPyYHOUr5azEiJ6DR68Vm4cJi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044638459720-rpuk6v9rlhaj2cetuf9qotftkigmn04e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
